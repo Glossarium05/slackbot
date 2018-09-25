@@ -1,0 +1,23 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "Christina amazing bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "slack"
+  ],
+  "author": "Christina",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "firebase": "^5.5.1",
+    "firebase-admin": "^6.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
